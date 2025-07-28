@@ -9,3 +9,21 @@ to
 9 parts
 
 rakmik/Qwen3-235B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://huggingface.co/unsloth/Qwen3-235B-A22B-Instruct-2507-GGUF/discussions/7
